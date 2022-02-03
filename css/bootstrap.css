@@ -47,6 +47,44 @@ body{
     article a:hover{
         text-decoration: underline;
     }
+    article p{
+      margin: 15px 0px;
+      text-align: center;
+      color:black;
+      text-align: justify;
+      text-indent:30px;
+      line-height:2em;
+  }
+
+     .informatica{
+      padding: 20px;
+      background-color: rgba(235, 224, 224, 0.356);
+      border-radius:10px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+     .computador{
+      padding: 20px;
+      background-color: rgba(235, 224, 224, 0.356);
+      border-radius:10px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+     .programação{
+      padding: 20px;
+      background-color: rgba(235, 224, 224, 0.356);
+      border-radius:10px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+    .informatica, .computador, .programação p{
+      margin: 15px 0px;
+      text-align: center;
+      color:black;
+      text-align: justify;
+      text-indent:30px;
+      line-height:2em;
+  }
     h1 h2{
         color:blue;
         padding: 15px;
