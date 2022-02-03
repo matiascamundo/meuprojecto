@@ -77,9 +77,21 @@ body{
 
     aside > ul{
         list-style: '\2714';
-        list-style-position: inside;
         columns:3;
         
+    }
+
+    .pauta{
+    padding: 15px;
+    background-color: rgba(81, 160, 160, 0.144);
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    }
+
+    .pauta > ul{
+      list-style: '\2714';
+      columns:3;
     }
 
     audio{
@@ -1579,13 +1591,13 @@ a.bg-danger:focus {
   margin: 40px 0 20px;
   border-bottom: 1px solid #eee;
 }
+/*
 ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
   padding-left: 25px;
   padding-right: 35px;
-  
 }
 ul ul,
 ol ul,
@@ -1593,6 +1605,7 @@ ul ol,
 ol ol {
   margin-bottom: 0;
 }
+*/
 .list-unstyled {
   padding-left: 0;
   list-style: none;
