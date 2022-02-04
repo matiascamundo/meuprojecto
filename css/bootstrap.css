@@ -13,7 +13,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    background-image: linear-gradient(to right,rgba(86, 86, 161, 0.808),rgba(19, 19, 168, 0.918));
+    background-image: linear-gradient(to right,#244BBF,#4A88D9);
     background-attachment: fixed;
     }
 /*Falta baixar Paleta de cores*/
@@ -28,7 +28,7 @@ body{
 
      /*main*/
      main{
-        background-color: white;
+        background-color: #5A90BF;
         min-width: 250px;
         max-width: 800px; 
         padding-left: 40px;
@@ -67,21 +67,21 @@ body{
 
      .informatica{
       padding: 20px;
-      background-color: rgba(235, 224, 224, 0.356);
+      background-color:white;
       border-radius:10px;
       padding-left: 40px;
       padding-right: 40px;
     }
      .computador{
       padding: 20px;
-      background-color: rgba(235, 224, 224, 0.356);
+      background-color:white;
       border-radius:10px;
       padding-left: 40px;
       padding-right: 40px;
     }
      .programação{
       padding: 20px;
-      background-color: rgba(235, 224, 224, 0.356);
+      background-color:white;
       border-radius:10px;
       padding-left: 40px;
       padding-right: 40px;
@@ -102,7 +102,7 @@ body{
     }
     aside{
         padding: 20px;
-        background-color: rgba(81, 160, 160, 0.144);
+        background-color:rgba(235, 224, 224, 0.356) ;
         border-radius:10px;
         margin-top: 11px;
         margin-bottom: 11px;  
@@ -130,7 +130,7 @@ body{
 
     .pauta{
     padding: 20px;
-    background-color: rgba(81, 160, 160, 0.144);
+    background-color:rgba(235, 224, 224, 0.356);
     border-radius: 10px;
     margin-top: 11px;
     margin-bottom: 11px;
@@ -142,7 +142,7 @@ body{
     }
 
     audio{
-        background-color: rgba(81, 160, 160, 0.144);
+        background-color:rgba(235, 224, 224, 0.356);
         border-radius:10px; 
         position: relative;
         width: 90%;
@@ -162,7 +162,7 @@ body{
     }
     
     div.video{
-        background-color:rgba(81, 160, 160, 0.144);
+        background-color:rgba(235, 224, 224, 0.356);
         padding: 20px;
         margin:0px;
         border-radius:10px;
@@ -211,7 +211,7 @@ body{
 
     /*footer*/
     footer{
-        background-color:rgb(40, 40, 82);
+        background-color:#0420BF;
         color:white;
         padding:  30px;
         margin-right:0px;
@@ -4824,7 +4824,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color:rgb(58, 58, 141);
+  background-color:#040FD9;
   border-color: #b87979;
 }
 .navbar-inverse .navbar-brand {
