@@ -10,21 +10,22 @@
     margin: 0px;
 
 }
+@font-face{
+  font-family:'HeliollaDemoRegular';
+  src: url('fonts/Cherilyn.0tf') format('opentype'), url('fonts/HeliollaDemoRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+ }
+
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cherilyn',arial, Helvetica, sans-serif;
     font-size: 15px;
     background-image: linear-gradient(to right,#244BBF,#4A88D9);
     background-attachment: fixed;
     }
 /*Falta baixar Paleta de cores*/
 /*Falta baixar a fonte*/
-    @font-face{
-     font-family:'love';
-     src: url('fonts/Klassk Style.ttf') format('opentype');
-     font-weight: normal;
-     font-style: normal;
-    }
-
+   
 
      /*main*/
      main{
@@ -95,6 +96,7 @@ body{
       line-height:2em;
   }
     h1 h2{
+      font-family:'Valentine Sweet - TTF', times, Helvetica ;
         color:blue;
         padding: 15px;
         margin-top: 16px;
@@ -1307,6 +1309,7 @@ html {
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+/*
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -1314,6 +1317,7 @@ body {
   color: #333;
   background-color: #fff;
 }
+*/
 input,
 button,
 select,
@@ -1398,6 +1402,8 @@ hr {
 [role="button"] {
   cursor: pointer;
 }
+/*
+
 h1,
 h2,
 h3,
@@ -1415,6 +1421,7 @@ h6,
   line-height: 1.1;
   color: inherit;
 }
+*/
 h1 small,
 h2 small,
 h3 small,
@@ -1813,6 +1820,7 @@ pre code {
   overflow-y: scroll;
 }
 .container {
+  font-family:'HeliollaDemoRegular', Arial, Helvetica, sans-serif;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
