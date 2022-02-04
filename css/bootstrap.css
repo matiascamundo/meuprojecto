@@ -13,9 +13,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    background-image: linear-gradient(to right,rgba(86, 86, 161, 0.808),blue);
+    background-image: linear-gradient(to right,rgba(86, 86, 161, 0.808),rgba(19, 19, 168, 0.918));
     background-attachment: fixed;
     }
+/*Falta baixar Paleta de cores*/
 /*Falta baixar a fonte*/
     @font-face{
      font-family:'love';
@@ -100,7 +101,7 @@ body{
         
     }
     aside{
-        padding: 15px;
+        padding: 20px;
         background-color: rgba(81, 160, 160, 0.144);
         border-radius:10px;
         margin-top: 11px;
@@ -128,7 +129,7 @@ body{
     }
 
     .pauta{
-    padding: 15px;
+    padding: 20px;
     background-color: rgba(81, 160, 160, 0.144);
     border-radius: 10px;
     margin-top: 11px;
