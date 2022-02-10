@@ -1828,9 +1828,10 @@ pre code {
 .container {
   font-family:'HeliollaDemoRegular', Arial, Helvetica, sans-serif;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: -71px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: -70;
 }
 @media (min-width: 768px) {
   .container {
