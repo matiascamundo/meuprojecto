@@ -131,6 +131,12 @@ body{
         
     }
 
+    aside > img{
+      margin-left: 314px;
+      margin-top: -14px;
+}
+    }
+
     .pauta{
     padding: 20px;
     background-color:rgba(235, 224, 224, 0.356);
@@ -143,6 +149,10 @@ body{
       list-style: '\2714';
       columns:3;
       padding-left: px;
+}
+
+{
+  text-align: center;
 }
     
     audio{
