@@ -107,7 +107,7 @@ body{
         background-color:rgba(235, 224, 224, 0.356) ;
         border-radius:10px;
         margin-top: 11px;
-        margin-bottom: 11px;  
+        margin-bottom: 11px;      
     }
 
     aside a{
@@ -121,21 +121,20 @@ body{
     aside h1{
         color:blue;
         text-align:center;
-        margin-bottom: 13px;
+        margin-bottom: 16px;
     }
 
     aside > ul{
         list-style: '\2714';
-        columns:3;
-        padding-left: px;
-        
+        columns:3;   
     }
 
     a > img{
     margin-left: 140px;
     margin-top: -65px;
-    min-width:10px;
-    max-width: 20px;
+    min-width:30px;
+    max-width: 90px;
+    width: 40px;
 }
     }
 
@@ -155,12 +154,8 @@ body{
     .pauta > ul{
       list-style: '\2714';
       columns:3;
-      padding-left: px;
 }
 
-{
-  text-align: center;
-}
     
     audio{
         background-color:rgba(235, 224, 224, 0.356);
@@ -180,7 +175,7 @@ body{
         color:blue;
         margin-top: 15px;
         font-size: 20px;
-        padding-top: 3px;
+        padding-top: 6px;
     }
     
     div.video{
