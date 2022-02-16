@@ -131,11 +131,18 @@ body{
         
     }
 
+    a > img{
+    margin-left: 140px;
+    margin-top: -65px;
+    min-width:10px;
+    max-width: 20px;
+}
+    }
+
     aside > img{
       margin-left: 314px;
       margin-top: -14px;
 }
-    }
 
     .pauta{
     padding: 20px;
@@ -173,6 +180,7 @@ body{
         color:blue;
         margin-top: 15px;
         font-size: 20px;
+        padding-top: 3px;
     }
     
     div.video{
@@ -234,8 +242,9 @@ body{
     }
 
     #icone-social img{
-      min-width:35px;
-      max-width: 50px;
+      min-width:25px;
+      max-width: 40px;
+      
     }
 
     footer img{
@@ -243,8 +252,8 @@ body{
     height: 100%;
     margin-bottom: 0px;
     border-radius:100px;
-    min-width:40px;
-    max-width: 50px;
+    min-width:25px;
+    max-width: 40px;
     }
 
  /*Bootstrap*/
@@ -6505,7 +6514,7 @@ button.close {
 }
 .carousel {
   position: relative;
-  margin-top: 50px;
+  margin-top: 29px;
 }
 .carousel-inner {
   position: relative;
