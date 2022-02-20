@@ -129,14 +129,23 @@ body{
         columns:3;   
     }
 
-    a > img{
+    /*a > img{
     margin-left: 140px;
     margin-top: -65px;
     min-width:30px;
     max-width: 90px;
     top: 5%;
-    left: 50%;
-    
+    left: 50%;   
+}
+*/
+
+aside > a > img{
+  margin-left: 140px;
+  margin-top: -65px;
+  min-width:30px;
+  max-width: 90px;
+  top: 5%;
+  left: 50%;   
 }
     
 
