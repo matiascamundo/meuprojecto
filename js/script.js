@@ -6,21 +6,21 @@ function carrega(){
     var data = new Date()
     var hora = data.getHours()
 
-    ms.innerHTML=`<strong>Agora são ${hora} horas </strong>`
+    ms.innerHTML=`<strong>Agora são ${hora} horas</strong>`
 
     if(hora >= 0 && hora < 12){
     // Bom dia
-       img.src="igreja.png"
-       document.body.style.background ='#b88c8c'
+       img.src="imagens/s2.jpg"
+     document.body.style.background ='#244BBF'
 
     }else if(hora >= 12 && hora < 18){
         //Boa tarde
-        img.src="Ruth.png"
-        document.body.style.background ='#f8f0f0'
+        img.src="imagens/s3.jpg"
+    document.body.style.background ='#4A88D9'  
     }else{
         //Boa noite
-        img.src="ruth1.png"
-        document.body.style.background ='#fadfc3'
+        img.src="imagens/s5.jpg"
+    document.body.style.background ='#F0F1F2'
     }
 
 
