@@ -20,7 +20,7 @@ function carrega(){
     }else{
         //Boa noite
         img.src="imagens/s5.jpg"
-    document.body.style.background ='#F0F1F2'
+    document.body.style.background ='#244BBF'
     }
 
 
