@@ -6,7 +6,7 @@ function carrega(){
     var data = new Date()
     var hora = data.getHours()
 
-    ms.innerHTML=`<strong>Agora são ${hora} horas</strong>`
+    ms.innerHTML=`<strong><h1>Agora são ${hora} horas</h1></strong>`
 
     if(hora >= 0 && hora < 12){
     // Bom dia

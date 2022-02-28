@@ -72,6 +72,7 @@ body{
       border-radius:10px;
       padding-left: 40px;
       padding-right: 40px;
+      box-shadow: 3px 3px 10px rgb(0, 0, 0,161);
     }
      .computador{
       padding: 20px;
@@ -79,6 +80,7 @@ body{
       border-radius:10px;
       padding-left: 40px;
       padding-right: 40px;
+      box-shadow: 3px 3px 10px rgb(0, 0, 0,161);
     }
      .programação{
       padding: 20px;
@@ -87,6 +89,7 @@ body{
       padding-left: 40px;
       padding-right: 40px;
       margin-bottom: 11px;
+      box-shadow: 3px 3px 10px rgb(0, 0, 0,161);
     }
 
     .img-info{
@@ -140,7 +143,8 @@ section > img{
         background-color:rgba(235, 224, 224, 0.356) ;
         border-radius:10px;
         margin-top: 11px;
-        margin-bottom: 11px;      
+        margin-bottom: 11px;
+        box-shadow: 3px 3px 10px rgb(0, 0, 0,161);      
     }
 
     aside a{
@@ -193,6 +197,7 @@ aside > a > img{
     border-radius: 10px;
     margin-top: 11px;
     margin-bottom: 11px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0,161);
     }
 
     .pauta > ul{
@@ -231,6 +236,7 @@ aside > a > img{
         height: -350px;
         min-width: 250px;
         max-width: 1610px;
+        box-shadow: 3px 3px 10px rgb(0, 0, 0,161);
         
 
     }
