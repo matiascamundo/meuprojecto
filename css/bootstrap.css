@@ -12,7 +12,7 @@
 }
 @font-face{
   font-family:'HeliollaDemoRegular';
-  src: url('fonts/Cherilyn.0tf') format('opentype'), url('fonts/HeliollaDemoRegular.ttf') format('truetype');
+  src: url('fonts/Cherilyn.otf') format('opentype'), url('fonts/Cherilyn.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
  }
